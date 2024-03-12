@@ -1,0 +1,2 @@
+# number_and_categorical_features_analysis_titanic_example
+Анализ по титанику с числовыми и категориальными признаками.ipynb
